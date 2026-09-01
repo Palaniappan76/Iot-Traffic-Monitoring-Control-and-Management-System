@@ -11,27 +11,6 @@ Our system provides an automated real-time solution using ESP8266, sensors, came
 The system continuously observes road conditions and provides useful traffic information through a web-based interface.
 
 
- How It Works:
- 
-🚗 Vehicle / Road Conditions
-            ↓
-     📡 Sensors + Camera
-            ↓
-        🔧 ESP8266
-            ↓
-    📊 Traffic Analysis
-            ↓
-     🚨 Accident Detection
-            ↓
-    ┌───────┴────────┐
-    ↓                ↓
-📷 Image Capture   📝 Digital Log
-    ↓                ↓
-    └───────┬────────┘
-            ↓
-       📧 Email Alert
-            ↓
-      🌐 Web Dashboard
       
 Key Features:
 
